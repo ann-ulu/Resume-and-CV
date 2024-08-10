@@ -5,7 +5,7 @@ This repo serves as a window into my professional journey, showcasing my experti
 ### What You'll Find Here
 **Resume:** A concise overview of my professional experience, education, and key achievements.<br>
 **CV:** A more detailed account of my career, including projects, skills, and contributions to various domains.<br>
-**Projects:** Highlights of the work I've done, from machine learning models in finance to data stewardship in banking.<br>
+**Projects:** Highlights of the work I've done, from machine learning models in finance to data stewardship in banking and building interactive report and dashboard.<br>
 
 
 ### 📫 Let's Connect
