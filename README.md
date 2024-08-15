@@ -1,5 +1,5 @@
 # Resume-and-CV
-### Welcome to my Resume and CV Repository! 🌟
+### Welcome to my CV Repository! 🌟
 This repo serves as a window into my professional journey, showcasing my expertise in data science, governance, and analytics. Whether you're here to explore my career path, review my qualifications, or collaborate on an exciting opportunity, you've come to the right place.
 
 ### What You'll Find Here
